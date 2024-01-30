@@ -54,11 +54,6 @@ streamlit run app.py
 - [Langchain](https://github.com/your-langchain-repository)
 - [OpenAI GPT-3.5](https://beta.openai.com/signup/)
 
-## Acknowledgments
-
-- Special thanks to [OpenAI](https://beta.openai.com/) for providing the powerful language model.
-- The Langchain library: [Langchain](https://github.com/your-langchain-repository)
-
 ```
 
 Make sure to replace `<repository-url>` with the actual URL of your repository and update the OpenAI API key accordingly. Adjust the sections as needed to reflect the specific details of your project.
