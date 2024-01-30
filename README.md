@@ -1,5 +1,3 @@
-Certainly! Here's a complete README for your NewsQuester project:
-
 ```markdown
 # NewsQuester: News Research Tool 📈
 
